@@ -1,2 +1,1 @@
-# cms-vt-adv-symfony-extending-twig
-CMS-VT | ADV | Symfony - Extending Twig
+# CMS-VT | ADV | Symfony - Extending Twig
